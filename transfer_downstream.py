@@ -120,6 +120,6 @@ class LinearProbe(object):
 
 
 if __name__ == '__main__':
-    linear_probe = LinearProbe("../data/ptbxl_dataset/", "../encoders/pre_train_model.h5",
+    linear_probe = LinearProbe("./data/ptbxl_dataset/", "./encoders/pre_train_model.h5",
                                do_inference=True)
     linear_probe.fit_eval()
