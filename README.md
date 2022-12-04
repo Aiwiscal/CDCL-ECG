@@ -5,4 +5,4 @@ ATTENTION: As TensorFlow 2.x may be the mainstream version nowadays, we re-imple
 
 Datasets can be downloaded from https://figshare.com/articles/dataset/Datasets_for_CDCL/21671255
 
-- The complete implementation and instructions are preparing and updating.
+- UPDATING ...
