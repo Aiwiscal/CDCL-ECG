@@ -3,5 +3,6 @@ https://doi.org/10.1016/j.compbiomed.2022.106390
 
 ATTENTION: As TensorFlow 2.x may be the mainstream version nowadays, we re-implemented the work in TensorFlow 2.5 and TensorFlow.Keras!
 
-- The complete implementation and instructions are preparing and updating.
+Datasets can be downloaded from https://figshare.com/articles/dataset/Datasets_for_CDCL/21671255
 
+- The complete implementation and instructions are preparing and updating.
