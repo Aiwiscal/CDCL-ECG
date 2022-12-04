@@ -2,7 +2,7 @@
 # @Author   : WenHan
 
 # cnn_net_2D.py
-import keras
+import tensorflow.keras as keras
 
 # 2-dimensional backbone
 

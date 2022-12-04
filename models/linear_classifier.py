@@ -2,7 +2,7 @@
 # @Author   : WenHan
 
 # linear_classifier.py
-import keras
+import tensorflow.keras as keras
 
 
 # linear classifier

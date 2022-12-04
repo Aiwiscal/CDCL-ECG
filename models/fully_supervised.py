@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Author   : WenHan
-import keras
+import tensorflow.keras as keras
 import cnn_net as cnn_net_1d
 import cnn_net_2D as cnn_net_2d
 
