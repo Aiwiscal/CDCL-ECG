@@ -84,8 +84,8 @@ class LinearProbe(object):
         tf.compat.v1.reset_default_graph()
 
         # linear classifier
-        inputs = keras.layers.Input(shape=[train_feat_select.shape[-1], ])
-        outputs = keras.layers.Dense(units=nb_classes, activation="softmax")(inputs)
+        from models.linear_classifier import build_net
+        inputs, outputs = build_net([train_feat_select.shape[-1], ], nb_classes)
 
         model = keras.models.Model(inputs=inputs, outputs=outputs)
         opt = keras.optimizers.Adam(lr=0.001)
