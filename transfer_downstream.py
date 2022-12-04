@@ -10,7 +10,7 @@ nb_classes = 5  # for ptb-xl database.
 # nb_classes = 9 # for cpsc2018 database.
 
 
-class LinearProbe(object):
+class Transfer(object):
     def __init__(self, data_path, model_path, do_inference=True):
         self.data_path = data_path
         self.model_path = model_path
@@ -120,6 +120,6 @@ class LinearProbe(object):
 
 
 if __name__ == '__main__':
-    linear_probe = LinearProbe("./data/ptbxl_dataset/", "./encoders/pre_train_model.h5",
-                               do_inference=True)
-    linear_probe.fit_eval()
+    transfer = Transfer("./data/ptbxl_dataset/", "./encoders/pre_train_model.h5",
+                        do_inference=True)
+    transfer.fit_eval()
