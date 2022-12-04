@@ -3,4 +3,5 @@ https://doi.org/10.1016/j.compbiomed.2022.106390
 
 ATTENTION: As TensorFlow 2.x may be the mainstream version nowadays, we re-implemented the work in TensorFlow 2.5 and TensorFlow.Keras!
 
-- The complete implementation and instructions are coming soon.
+- The complete implementation and instructions are preparing and updating.
+
