@@ -12,8 +12,5 @@ The source codes for "A Joint **C**ross-**d**imensional **C**ontrastive **L**ear
 - Resources：[https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=165&No=1046&PartNo=4#contents](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=165&No=1046&PartNo=4#contents)
 
 
-
-**UPDATING** ...
-
 Thank you for your attention. If you have questions about this work, you can contact _Wenhan Liu_: `WHliu@whu.edu.cn`
 
